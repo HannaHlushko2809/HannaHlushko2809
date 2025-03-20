@@ -1,4 +1,6 @@
 ## Hi there 👋
+#My repository
+this repository was created for the programming course.
 
 <!--
 **HannaHlushko2809/HannaHlushko2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
